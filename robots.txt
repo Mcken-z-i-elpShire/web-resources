@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Mcken-z-i-elpShire.github.io/web-resources/sitemap.xml
